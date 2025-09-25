@@ -6,6 +6,11 @@ A simple **Spotify clone** built using HTML and CSS. This project focuses on rep
 
 You can open the `index.html` file in your browser to see the layout.
 
+## Screenshot
+
+![Screenshot](Screenshot.png)  
+
+
 ## Features
 
 - Clean and responsive layout
