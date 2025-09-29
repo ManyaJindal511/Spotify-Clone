@@ -24,8 +24,7 @@ You can open the `index.html` file in your browser to see the layout.
 
 - HTML5
 - CSS3
-- Google Fonts & Icons (optional)
-
+  
 ## How to Run
 
 1. Clone the repository:
